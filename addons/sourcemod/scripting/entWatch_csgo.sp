@@ -15,7 +15,7 @@
 #tryinclude <csgocolors_fix>
 #pragma newdecls required
 
-#define PLUGIN_VERSION "3.8.149"
+#define PLUGIN_VERSION "3.9"
 
 //uncomment the next line if you using DynamicChannels: https://github.com/Vauff/DynamicChannels
 #define DYNAMIC_CHANNELS
